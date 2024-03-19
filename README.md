@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 <br>
  <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
  
-- 🌱 Currently working in (and learning) Data Science, AI/ML, DevOps.
-- 🧿 Always looking to work on new projects & collab with other devs.
+- 🌱 Currently working in (and learning) Data Science, AI/ML, and DevOps.
+- 🧿 Always looking to work on new projects & collab with other devs, looking for all and different kinds of communities.
 - 💬 Hope to meaningfully contribute to open-source projects.
 - 🕹️ Love to game, read and write as hobbies!
 - 📫 Reach out to me at gaurangn127@gmail.com
