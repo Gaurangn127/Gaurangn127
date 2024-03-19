@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 <br>
 <br>
 <br>
-<br>
 
 ## About Me :
 <br>
@@ -97,4 +96,5 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 
 ## Thank You!
 
-Thanks for visiting my GitHub profile! 😊
+Thanks for visiting my GitHub profile! 😊 <br>
+Find my repositories below.
