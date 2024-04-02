@@ -1,4 +1,4 @@
-[![MasterHead](https://private-user-images.githubusercontent.com/74038190/240825321-fe8225a5-f084-45cb-9a28-a0c2c8634872.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwODg4MDMsIm5iZiI6MTcxMjA4ODUwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzMjEtZmU4MjI1YTUtZjA4NC00NWNiLTlhMjgtYTBjMmM4NjM0ODcyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAyVDIwMDgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0MTY3NTE1NGM4NjBhOWQ1MjBiODBjMjJmZjA5ZTI1OTNjMzMyZmNlMGVkZGE1N2QzZDYxZjhkMTk5MzBmN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IoKET5AeOOyXmwSWKwoCDXZHp1ZHeYQapRgqCZxilXg)](https://github.com/Gaurangn127/)
+[![head]()](https://github.com/Gaurangn127/)
 
 <h1> Hello, World!👋 </h1>
 
@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 
 ## About Me :
 <br>
- <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif">
+ <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/240825321-fe8225a5-f084-45cb-9a28-a0c2c8634872.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIwODg4MDMsIm5iZiI6MTcxMjA4ODUwMywicGF0aCI6Ii83NDAzODE5MC8yNDA4MjUzMjEtZmU4MjI1YTUtZjA4NC00NWNiLTlhMjgtYTBjMmM4NjM0ODcyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDAyVDIwMDgyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI0MTY3NTE1NGM4NjBhOWQ1MjBiODBjMjJmZjA5ZTI1OTNjMzMyZmNlMGVkZGE1N2QzZDYxZjhkMTk5MzBmN2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IoKET5AeOOyXmwSWKwoCDXZHp1ZHeYQapRgqCZxilXg">
  
 - 🌱 Currently working in (and learning) Data Science, AI/ML, and DevOps.
 - 🧿 Always looking to work on new projects & collab with other devs, looking for all and different kinds of communities.
