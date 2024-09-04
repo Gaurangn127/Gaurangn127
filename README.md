@@ -91,9 +91,10 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 
 - [Instagram](https://www.instagram.com/gaurangn127/)
 - [Twitter](https://twitter.com/Gaurangn306)
-- [Hackerrank](https://www.hackerrank.com/profile/gaurangn127)
+- [CofeChef](https://www.codechef.com/users/gaurangn127)
 - [LeetCode](https://leetcode.com/Gaurangn127/)
 - [Discord](https://discordapp.com/users/730149447769653358)
+- [Hackerrank](https://www.hackerrank.com/profile/gaurangn127)
 
 <br>
 
