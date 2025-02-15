@@ -22,10 +22,7 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Some technologies I'm proficient with :
 <br>
@@ -82,12 +79,12 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 
 </p>
 
-
 <br>
+
 
 
 ## Connect with Me
-<br>
+
 
 - [Twitter](https://twitter.com/Gaurangn306)
 - [CofeChef](https://www.codechef.com/users/gaurangn127)
