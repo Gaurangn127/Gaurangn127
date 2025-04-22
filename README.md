@@ -85,7 +85,7 @@ Welcome to my GitHub profile! I'm Gaurang, another fellow dev in the world of co
 
 ## Connect with Me
 
-
+- [Kaggle](https://www.kaggle.com/gaurangn127)
 - [Twitter](https://twitter.com/Gaurangn306)
 - [CofeChef](https://www.codechef.com/users/gaurangn127)
 - [LeetCode](https://leetcode.com/Gaurangn127/)
