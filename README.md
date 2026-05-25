@@ -78,19 +78,31 @@ gaurang = {
   <img src="https://img.shields.io/badge/Jupyter%20Notebook-97.6%25-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-2.4%25-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
+<p>
+  <a href="https://huggingface.co/spaces/Gaurangn127/sentiment-analysis">
+    <img src="https://img.shields.io/badge/Live%20Demo-Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  </a>
+</p>
 </td>
 
 <td width="50%" valign="top">
-<h3><a href="https://github.com/Gaurangn127/rooftop-solar-cv">rooftop-solar-cv</a></h3>
-<p>End-to-end Computer Vision pipeline to detect and measure solar panels from satellite imagery. Supports geo image fetching by coordinates using PyTorch, Albumentations, and OpenCV.</p>
+<h3><a href="https://github.com/Gaurangn127/age-gender-predictor">age-gender-predictor</a></h3>
+<p>Deep learning model that predicts age and gender from a face image. Fine-tuned EfficientNet-V2-S backbone with dual prediction heads for regression and classification, served via a live Gradio app.</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Jupyter%20Notebook-50.8%25-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-49.2%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-95.8%25-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4.2%25-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+<p>
+  <a href="https://huggingface.co/spaces/Gaurangn127/age-gender-predictor">
+    <img src="https://img.shields.io/badge/Live%20Demo-Hugging%20Face%20Spaces-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  </a>
 </p>
 </td>
 
